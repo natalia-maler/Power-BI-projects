@@ -1,0 +1,10 @@
+The Power BI project aims to create an interactive analytical report based on data related to rail transport, collected from an SQL database. 
+The project utilizes tables such as: Trains, Technical Details of Trains, Travel Routes, Timetable, Passengers, Ticket Reservations, Payments, and Ticket Cancellations.
+
+These tables contain key data regarding train operations, travel, passengers, and finances, enabling a comprehensive analysis of passenger traffic and revenue generation. 
+Based on this data, various visualizations have been created to easily understand trends and operational outcomes:
+
+Map – a geographical presentation of travel station routes.
+Line Chart – revenue trends and refunds.
+Bar Chart – analysis of the popularity of individual routes.
+Pie Chart – distribution of payment methods.
