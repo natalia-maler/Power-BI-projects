@@ -1,0 +1,15 @@
+The Power BI project aims to create an interactive analytical report based on store sales data.
+The project uses tables such as: Orders, Cities, Customer, Returns, Product. 
+
+The report allows you to interactively explore sales results and identify key trends and patterns. 
+To present the data in a clear way, various visualizations were used, such as column charts, line charts, pie charts and geographical maps.
+
+Example questions answered by the report: 
+How do sales change over time? 
+Which voivodeships and cities bring the highest sales?
+Which month had the highest and lowest sales?
+Which customers generate the most revenue?
+What is the share of returns in sales?
+Which industries dominate sales?
+Which shipping type generates the most return value?
+How does the value of returns compare to the value of sales in different periods?
